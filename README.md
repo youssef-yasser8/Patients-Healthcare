@@ -69,11 +69,4 @@ The **Patients-Healthcare Dashboard** consolidates critical data on patient visi
 
 The **Patients-Healthcare Dashboard** serves as a vital tool for healthcare providers, offering clear and actionable insights into patient flows, satisfaction levels, and operational efficiency. This dashboard not only assists in daily decision-making but also supports long-term strategic planning by identifying areas for improvement. With data-driven insights at their fingertips, hospital administrators can enhance patient experience and optimize resource allocation, ultimately advancing the quality of healthcare services.
 
-## 📬 Contact
 
-For questions or feedback, reach out to **Mohamed Samy** via GitHub:([https://github.com/yourusername](https://github.com/MohamedSamy57)) or email at mohamedsamyomar55@gmail.com.
-
----
-
-**Crafted with ❤️ by Mohamed Samy**  
-*Using data to elevate healthcare decisions with Patients-Healthcare Dashboard*
